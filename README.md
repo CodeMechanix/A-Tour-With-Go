@@ -11,3 +11,25 @@
 7. [Switch](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2001/07_switch_case.go)
 8. [Arrays](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2001/08_array.go)
 9. [Slices](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2001/09_Slices.go)
+
+## Day - 02
+
+1. Maps
+2. Range
+3. Functions
+4. Multiple Return Values
+5. Variadic Functions
+6. Closures
+7. Recursion
+
+## Day - 03
+
+1. Pointers
+2. Structs
+3. Methods
+4. Interfaces
+5. Errors
+
+
+Reference:
+1. [gobyexample](https://gobyexample.com/)
