@@ -14,13 +14,13 @@
 
 ## Day - 02
 
-1. Maps
-2. Range
-3. Functions
-4. Multiple Return Values
-5. Variadic Functions
-6. Closures
-7. Recursion
+1. [Maps](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2002/01_Maps.go)
+2. [Range](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2002/02_Range.go)
+3. [Functions](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2002/03_Functions.go)
+4. [Multiple Return Values](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2002/04_Multiple_Return_Values.go)
+5. [Variadic Functions](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2002/05_Variadic_Functions.go)
+6. [Closures](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2002/06_Closures.go)
+7. [Recursion](https://github.com/CodeMechanix/A-Tour-With-Go/blob/master/Day%20-%2002/07_Recursion.go)
 
 ## Day - 03
 
